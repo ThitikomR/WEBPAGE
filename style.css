@@ -1,0 +1,20 @@
+body {
+    background-color: bisque;
+}
+
+ ul.menu li a {
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 2em;
+    float: left;
+    padding: 0.7em 1.5em 1.3em 0.01em;
+ }
+
+ ul.menu {
+    background: #000102;
+    margin: 0;
+    list-style-type: none;
+    position: relative;
+    font-family: fontA;
+    text-shadow: 2px 2px rgba(0, 0, 0, 0.644);
+ }
